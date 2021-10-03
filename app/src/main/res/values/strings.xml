@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerHilt App</string>
+    <string name="sp_string">This is a string accessed from context..</string>
+</resources>
